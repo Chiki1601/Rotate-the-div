@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 350px;
+  margin: 100px auto;
+}
+
+.dial {
+  width: 350px;
+  height: 350px;
+  background: yellow;
+  border-radius: 50%;
+  border: 175px solid black;
+  border-color: red green blue yellow;
+}
